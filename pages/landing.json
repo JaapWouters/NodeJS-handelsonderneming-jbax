@@ -1,0 +1,43 @@
+{
+    "hero": {
+        "greeting": "Welkom in mijn garage!", 
+        "introduction": "Mijn naam is Jan. Ik doe aan handel en reparatie van personen-, bedrijfs- en landbouwvoertuigen.",
+        "img_profile": "https://lh3.googleusercontent.com/cBeVReZtngWokTZIDrlQP7HNTbQtFwkD1GiKmgcDxZCqMvmecl8Idsfzw7OaRA_X0LSntPcFPXYUnRGdQxY9H328OKd5AW4W8sg_5NU",
+        "img_background": "https://lh3.googleusercontent.com/Ui_Lt28IhpbWg3OqF7MGQlAl4aBZgR-Y2vdsSXRqr4Vxx6kOSd1IP24rhRbQI_Gx84CNKydnU1030v1ldBXZn5R7LUXuK7P73YGeVA"
+    },
+
+    "projects":{
+        "header": "Voertuig aanbod",
+        "subheader": "De voertuigen die ik te beschikking heb voor verkoop."
+    },
+
+    "gallery": {
+        "img_1": "https://lh3.googleusercontent.com/oQquUZcOOZ4WEiZ43qp5jG1VKAPQWMQuV8ftugnS1nQ3qbUD-D3UiByNqT5OSMl38OwqTHhMIMfD_DFlKaY5hPq3TG_JO3DHk3y1kw",
+        "img_2": "https://lh3.googleusercontent.com/jNyR4vfm7Kwi14VEWA70-LUDWJcyIh-uRerIn3RBN6AheV8_F8UUzivDBdSeNHfIj9x-jKrxAQzT8eghWfbvmj05bW9p9zixEDYBHQ5v",
+        "img_3": "https://lh3.googleusercontent.com/xSa3_Z9A8UeuD-JxCLnEwEvVDWc6tTQDfb-O79lz_HwhN8CIQT2TEVvQantrzOsPfhAtOW1jFrTIs-9LMR-OHsVvbPASUOxu4FnEWok",
+        "img_4": "https://lh3.googleusercontent.com/gyVnLr0Nqlww4PbUQf0H-Ddmi4G4aX6IaQXBDOkKaoNvr8WQgPcfe_JLthgRbDfMsVSPL7jpBeSeCiSZ2S7DQnnRaaOCiNUp0QgaCQ",
+        "img_5": "https://lh3.googleusercontent.com/1VHeApx8YL75Eccb6RhvKfgbic-bMJF8u4TvfmndmTdt4yKf6DgmbqRM7uOmO0vtyQbAHr1LwZ_1xepSg-PJxo0fzODtroMHN8XypA",
+        "img_6": "https://lh3.googleusercontent.com/7HhFN9Xep2GtaSMn221fBnifJVgqRJ2yggSOOqyv6wMGjUKyGPFpGzllVig3yd6oIeR-V4k7GFtoUDUk1GLCXsIq4e1AHHbnCAtPJgA"
+    },
+
+    "service": { 
+        "title":"De services die ik aan mijn klanten aanbied",
+
+        "name":"Reparatie", 
+        "img_1":"https://storage.turbo360.co/autohandel-jbax-x6jtri/tools-solid.svg", 
+        "description":"Als je van je auto af moet, repareer ik hem en verkoop ik hem door voor je",
+
+        "name2":"Koop", 
+        "img_2":"https://storage.turbo360.co/autohandel-jbax-x6jtri/money-check-alt-solid.svg", 
+        "description2":"Ik koop je auto over als je er van af moet",
+
+        "name3":"Verkoop", 
+        "img_3":"https://storage.turbo360.co/autohandel-jbax-x6jtri/car-solid.svg", 
+        "description3":"Heb je een fatsoenlijke auto nodig, ik verkoop ze aan jou"
+    },
+
+    "contact":{
+        "header":"Stuur me een mailtje",
+        "subheader":"Al ben je geïnteresseerd in een auto of wil je van je auto af, stuur me gerust een mailtje"
+    }
+}
