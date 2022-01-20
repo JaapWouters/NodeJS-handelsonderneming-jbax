@@ -40,7 +40,10 @@ To build for production, run build:
 ```bash
 npm run build
 ```
-
-## Demo
-
+## Check the website on localhost
 http://localhost:3000/
+
+## Demo video
+https://youtu.be/7ZjK31Ncva0
+
+
