@@ -4,6 +4,19 @@
 I started this passion project because i cancelled my passion project with Gatsby. In this project i used NodeJS and the CMS system Turbo360. On this website you can see a showcase of some cars and other information.
 
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
+
+## Software
+
+**Editor:** Microsoft Visual Studio (v1.63.2)
+
+**Node:** Node.js (v16.13.2)
+
+**Browser:** Google Chrome (v97.0.4692.99)
+
+**Node Package Manager:** NPM (v6.14.8)
+
+**Electron:** V8 (9.1.269.39-electron.0)
+
 ## Instructions
 
 After cloning into repo, cd to project root directory and create a .env file. This file requires a TURBO_APP_ID and SESSION_SECRET keys:
