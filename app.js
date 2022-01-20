@@ -5,7 +5,7 @@ const express = require('express')
 const app = express() // initialize app
 
 const config = {
-	views: 'views', 	// Set views directory
+	views: 'views', 	// Set views directoryy
 	static: 'public', 	// Set static assets directory
 	logging: true,
 	controllers: require('./controllers'),
